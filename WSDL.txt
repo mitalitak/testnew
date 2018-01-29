@@ -1,0 +1,1 @@
+WSDL validates data sent and recieved but RESTFUL services dont do any such kind of works ,so thats why we use WSDL because we dont want to take any risks with our resultset.
